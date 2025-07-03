@@ -8,11 +8,11 @@ This MVP focuses on core functionality to prove the solution's viability with mi
 
   - [Core Problem]
   - [MVP Features]
+  - [Life Cycle & Overview]
   - [Technology Stack]
   - [Post-MVP Roadmap]
   - [Environment Setup]
   - [Author]
-  - [License]
 
 ## 🎯 Core Problem
 
@@ -29,6 +29,13 @@ This MVP includes only the essential features required to complete the core tran
   * **Basic Vehicle Selection:** Provides a functional, text-based list of available vehicle types for the user to choose from.
   * **Confirmation Screen:** A clear summary of the reservation details before final submission.
   * **Task Routing:** Ensures the completed reservation request is successfully routed to a work queue for processing.
+## 🔃 Life Cycle & Overview
+
+Case-Life-Cycle for the Tourist Car Rental!!
+<img width="695" alt="image" src="https://github.com/user-attachments/assets/2c795278-f133-45bc-9874-81675dfa0bba" />
+Overview of the Tourist Car Rental!!
+<img width="671" alt="image" src="https://github.com/user-attachments/assets/ff302e49-4768-48fe-8c01-631117a8a03c" />
+
 
 ## 🛠️ Technology Stack
 
